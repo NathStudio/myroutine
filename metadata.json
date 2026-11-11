@@ -1,0 +1,6 @@
+{
+  "name": "Routine Matinale - Checklist & Rappels",
+  "description": "Application PWA de routine matinale avec checklist tactile interactive, barre de progression, alertes et notifications programmées pour Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
